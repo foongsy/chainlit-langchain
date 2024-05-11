@@ -1,0 +1,7 @@
+anthropic
+chainlit
+grpcio-status
+ipykernel
+langchain
+langchain-google-vertexai
+pip-chill
